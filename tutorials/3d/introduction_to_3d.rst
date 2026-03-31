@@ -50,16 +50,17 @@ left to right:
 
 .. image:: img/3d_toolbar.webp
 
+- **Transform Mode** (:kbd:`Q`): Enables a combined mode allowing both movement and rotation for the selected nodes.
+- **Move Mode** (:kbd:`W`): Enables move (or translate) mode for the selected nodes. 
+  See :ref:`doc_introduction_to_3d_space_and_manipulation` for more details.
+- **Rotate Mode** (:kbd:`E`): Enables rotation mode for the selected nodes. See 
+  :ref:`doc_introduction_to_3d_space_and_manipulation` for more details.
 - **Select Mode** (:kbd:`Q`): Allows selection of nodes in the viewport. Left clicking
   on a node to select one. Left clicking and dragging a rectangle selects all 
   nodes within the rectangle's boundaries, once released.
   Holding :kbd:`Shift` while selecting adds more nodes to the selection.
   Clicking on a selected node while holding :kbd:`Shift` deselects the node.
   In this mode, you can use the gizmos to perform movement or rotation.
-- **Move Mode** (:kbd:`W`): Enables move (or translate) mode for the selected nodes. 
-  See :ref:`doc_introduction_to_3d_space_and_manipulation` for more details.
-- **Rotate Mode** (:kbd:`E`): Enables rotation mode for the selected nodes. See 
-  :ref:`doc_introduction_to_3d_space_and_manipulation` for more details.
 - **Scale Mode** (:kbd:`R`): Enables scaling and displays scaling gizmos in different 
   axes for the selected nodes. See :ref:`doc_introduction_to_3d_space_and_manipulation` 
   for more details.
